@@ -1,7 +1,7 @@
 # CNCC_scripts
 R script to process single cell RNA-seq from cranial neural creast cells
 
-## this folder contains all detail R scripts to process single cell RNA-seq from GSE197513
+## This folder contains R scripts to process single cell murine neural cells from scRNA-seq (GSE197513)
 
 ## references
 
