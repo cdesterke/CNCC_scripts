@@ -2,7 +2,7 @@
 R script to process single cell RNA-seq from cranial neural creast cells
 
 ## This folder contains R scripts to process single cell murine neural cells from scRNA-seq (GSE197513)
-
+![pca](https://github.com/cdesterke/CNCC_scripts/blob/main/pca.png)
 ## references
 
 > Yankee TN, Oh S, Winchester EW, Wilderman A et al. Integrative analysis of transcriptome dynamics during human craniofacial development identifies candidate disease genes. Nat Commun 2023 Aug 2;14(1):4623. PMID: 37532691
